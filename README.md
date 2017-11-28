@@ -1,3 +1,3 @@
 RecyclerView using kotlin
 
-![Alt text](/relative/path/to/screen1.jpg?raw=true "Optional Title")
+![Image](https://github.com/venkimurthy07/RecyclerViewKotlin/blob/master/screen1.png?raw=true "Optional Title")
